@@ -1,0 +1,20 @@
+.container{
+    border: 2px solid black;
+    height:200px;
+    width: 400px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 230px;
+    background-color: antiquewhite;
+    border-radius: 7px 7px 7px 7px;
+}
+.align{
+    margin-left: 55px;
+    margin-top: 25px;
+}
+body{
+    background-image: url(https://i.pinimg.com/736x/ce/55/df/ce55df2bdf8b3544bd78a3e11c6a8202.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+}
